@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavyamanoja
 - 👀 I’m interested in programming, reading, creative writing
-- 🌱 I’m currently learning python programming language and DSA
+- 🌱 I’m currently learning python,java programming language, DSA and software testing
 - 📫 How to reach me kavyamanoja2128@gmail.com
 - 😄 Pronouns: she/her
   
